@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+.idea
+!Icon
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
