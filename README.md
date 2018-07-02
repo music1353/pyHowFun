@@ -117,3 +117,9 @@ Anaconda 下載官方網站：<a href="https://www.anaconda.com/download">點我
    ![Imgur](https://i.imgur.com/242OOGc.png)
 
    ➜ 透過終端機 (Terminal)，可直接執行 python 命令，或是利用 pip 安裝相關套件
+
+
+
+## Jupyter Notebook 教學
+
+因篇幅關係，請參閱 <a href="https://github.com/music1353/pyHowFun/blob/master/Jupyter Notebook 教學.md">Jupyter Notebook 教學</a>
