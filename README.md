@@ -122,4 +122,12 @@ Anaconda 下載官方網站：<a href="https://www.anaconda.com/download">點我
 
 ## Jupyter Notebook 教學
 
-因篇幅關係，請參閱 <a href="https://github.com/music1353/pyHowFun/blob/master/Jupyter Notebook 教學.md">Jupyter Notebook 教學</a>
+請參閱 <a href="https://github.com/music1353/pyHowFun/blob/master/Jupyter Notebook 教學.md">Jupyter Notebook 教學</a>
+
+
+
+## License
+
+2018, Ching-Hsuan Su
+
+MIT
