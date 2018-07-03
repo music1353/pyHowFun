@@ -20,15 +20,19 @@ Python版本：Python 3.6
 
   介紹 Python 常用的模組，並有簡單的範例
 
-* LESSON 3 爬蟲實戰 - 高鐵時刻
+* LESSON 3 物件導向 (Object-oriented, OO) 
+
+  介紹 Python 的物件導向
+
+* LESSON 4 爬蟲實戰 - 高鐵時刻
 
   利用 LESSON 2 學到的一些爬蟲模組，實作爬取高鐵時刻表
 
-* LESSON 4 爬蟲實戰 - 爬取圖片
+* LESSON 5爬蟲實戰 - 爬取圖片
 
   爬取網路圖片教學
 
-* LESSON 5 爬蟲實戰 - 用Selenium爬取圖片
+* LESSON 6 爬蟲實戰 - 用Selenium爬取圖片
 
   使用 Selenium 這個自動化測試套件，藉由控制瀏覽器，批量的爬取圖片
 
