@@ -1,6 +1,12 @@
 # Python 好好玩
 
 > 提供一系列的 Python 教學，讓初學者或是有程式基礎的人，快速融入 Python 的世界
+>
+> ❗提醒：有時 Github 對於 .ipynb 會渲染失敗，可以使用 <a href="https://nbviewer.jupyter.org/">nbviewer</a> 瀏覽教程
+
+[![Python](https://img.shields.io/badge/Python-3.6.1-blue.svg)](https://www.python.org/) [![Anaconda](https://img.shields.io/badge/Anacoda-1.6.2-blue.svg)](https://www.anaconda.com/)
+
+
 
 #### 環境
 
